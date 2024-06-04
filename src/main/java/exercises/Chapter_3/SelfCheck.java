@@ -4,9 +4,9 @@ import java.io.IOException;
 
 public class SelfCheck {
     public static void main(String[] args) throws IOException {
-//        spaceCount();
-//        cycle_1000();
-//        geometricProgression();
+        spaceCount();
+        cycle_1000();
+        geometricProgression();
         registerChange();
     }
 
